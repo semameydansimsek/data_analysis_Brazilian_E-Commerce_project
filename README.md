@@ -13,4 +13,5 @@ Kullanılan Teknolojiler:
 
 1. SQL
 2. Excel
+
 Bu çalışma veri analizi ve görselleştirme becerilerimi geliştirmek için yapılan çalışmaları içermektedir. Herhangi bir geri bildiriminiz veya sorunuz varsa lütfen iletişime geçin.
